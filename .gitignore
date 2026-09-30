@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+.ipynb_checkpoints/
+.DS_Store
+node_modules/
